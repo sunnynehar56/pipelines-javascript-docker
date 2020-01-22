@@ -1,3 +1,4 @@
+# changes to pipeline AB#245
 trigger:
 - master
 
